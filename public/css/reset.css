@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img { margin:0; padding:0; -webkit-text-size-adjust: none;}
+
+html{
+    font-size: 32vw;
+    font-family: PingFangSC-Regular,Source Han Sans,Microsoft Yahei;
+}
+fieldset, c{ border:none; }
+
+img{display: block;}
+
+address, caption, cite, code, dfn, th, var { font-style:normal; font-weight:normal; }
+
+ul, ol ,li{ list-style:none; }
+
+body { color:#333; font:12px PingFangSC-Regular,Source Han Sans,Microsoft Yahei;     background: #f4f4f4;}
+
+a { color:#666; text-decoration:none; }
+/*清除浮动*/
+.clear{clear:both}
+
+body,html{
+    height: 100%;
+    /* overflow: hidden; */
+}
+
+
+
+
